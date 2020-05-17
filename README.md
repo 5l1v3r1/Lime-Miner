@@ -24,7 +24,7 @@ To open project you need:
 
 ## Author
 
-* **NYAN CAT** 
+* **https://github.com/limeminer/** 
 
 
 ## Disclaimer
